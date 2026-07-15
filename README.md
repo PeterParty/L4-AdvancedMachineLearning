@@ -19,16 +19,19 @@
     *
 * Bayesian Hyperparameter Optimization
     * [Bayesian Optimization for Hyperparameters Tuning in Neural Networks](https://arxiv.org/abs/2410.21886)
-* [Feature selection]()https://scikit-learn.org/stable/modules/feature_selection.html
+* [Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
     * [Feature Selection Techniques in Machine Learning](https://www.geeksforgeeks.org/machine-learning/feature-selection-techniques-in-machine-learning/)
     * [What is feature selection?](https://www.ibm.com/think/topics/feature-selection)
 * [Model Selection](https://sklearn.org/stable/auto_examples/model_selection/index.html)
     * [What is model selection in machine learning?](https://www.ibm.com/think/topics/model-selection)
 * Neural Networks basics
-    [What is a neural network?](https://www.ibm.com/think/topics/neural-networks)
+    * [What is a neural network?](https://www.ibm.com/think/topics/neural-networks)
 
 * CNN fundamentals
     * [Introduction to Convolution Neural Network](https://www.geeksforgeeks.org/machine-learning/introduction-convolution-neural-network/)
+
+### Bonus
+* [What is data augmentation?](https://www.ibm.com/think/topics/data-augmentation)
 
 
 ## **Practice Project - Model Optimization Challenge**
