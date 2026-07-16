@@ -45,6 +45,7 @@ Image classification
 - [ ] Tune at least 5 hyperparameters
 - [ ] Compare results of different hypertuning methods (radnom search, grid search,bayesian optimzation) configurations
 - [ ] Plot loss function curvers
+    * [Overfitting: Interpreting loss curves](https://developers.google.com/machine-learning/crash-course/overfitting/interpreting-loss-curves)
 
 ## **Deliverables**
 
